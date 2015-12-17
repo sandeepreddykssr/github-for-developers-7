@@ -1,6 +1,6 @@
 #Introduction
 
- - Sandeep
- - Hyderabad
- - Dosa
- - Video Editting
+ - **Name** Sandeep
+ - **City** Hyderabad
+ - **Hobby** Video Editting
+ - **Color** Orange
